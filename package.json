@@ -1,0 +1,20 @@
+{
+  "name": "openshift-webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Start test\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkjaeman/openshift-webserver.git"
+  },
+  "author": "parkjaeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parkjaeman/openshift-webserver/issues"
+  },
+  "homepage": "https://github.com/parkjaeman/openshift-webserver#readme"
+}
